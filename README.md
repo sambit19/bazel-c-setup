@@ -5,4 +5,15 @@ Workspace: A workspace is a directory on your filesystem that contains the sourc
 The WORKSPACE file, which identifies the directory and its contents as a Bazel workspace and lives at the root of the project’s directory structure,
 
 Run the command to build
+```
+cd packge_1
+bazel build //main:hello-bazel
+````
+
+To run the application
+
+```
+bazel-bin/main/hello-bazel
+```
+
 
