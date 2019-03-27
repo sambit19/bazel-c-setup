@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.vscode/ipch/1f905754084901d1/hello-bazel.ipch
+.vscode/ipch/1f905754084901d1/mmap_address.bin
+package_1/bazel-bin
+package_1/bazel-genfiles
+package_1/bazel-out
+package_1/bazel-package_1
+package_1/bazel-testlogs
